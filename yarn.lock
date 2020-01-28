@@ -929,6 +929,15 @@ __metadata:
   resolution: "weak-berry@workspace:."
   dependencies:
     weak-napi: ^1.0.3
+  dependenciesMeta:
+    get-symbol-from-current-process-h:
+      unplugged: true
+    get-uv-event-loop-napi-h:
+      unplugged: true
+    node-addon-api:
+      unplugged: true
+    setimmediate-napi:
+      unplugged: true
   languageName: unknown
   linkType: soft
 

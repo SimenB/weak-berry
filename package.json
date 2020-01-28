@@ -5,5 +5,19 @@
   "license": "MIT",
   "devDependencies": {
     "weak-napi": "^1.0.3"
+  },
+  "dependenciesMeta": {
+    "get-symbol-from-current-process-h": {
+      "unplugged": true
+    },
+    "get-uv-event-loop-napi-h": {
+      "unplugged": true
+    },
+    "node-addon-api": {
+      "unplugged": true
+    },
+    "setimmediate-napi": {
+      "unplugged": true
+    }
   }
 }

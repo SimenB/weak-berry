@@ -33,13 +33,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
     "locationDiscardData": [
     ],
     "locationLengthData": [
-      122,
+      120,
       108,
-      104,
       102,
       96,
       94,
-      90,
       88,
       87,
       86,
@@ -428,7 +426,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["get-symbol-from-current-process-h", [
         ["npm:1.0.2", {
-          "packageLocation": "./.yarn/cache/get-symbol-from-current-process-h-npm-1.0.2-a9cd1ff161-1.zip/node_modules/get-symbol-from-current-process-h/",
+          "packageLocation": "./.yarn/unplugged/get-symbol-from-current-process-h-npm-1.0.2-a9cd1ff161/node_modules/get-symbol-from-current-process-h/",
           "packageDependencies": [
             ["get-symbol-from-current-process-h", "npm:1.0.2"]
           ],
@@ -437,7 +435,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["get-uv-event-loop-napi-h", [
         ["npm:1.0.6", {
-          "packageLocation": "./.yarn/cache/get-uv-event-loop-napi-h-npm-1.0.6-c32d93c5f4-1.zip/node_modules/get-uv-event-loop-napi-h/",
+          "packageLocation": "./.yarn/unplugged/get-uv-event-loop-napi-h-npm-1.0.6-c32d93c5f4/node_modules/get-uv-event-loop-napi-h/",
           "packageDependencies": [
             ["get-uv-event-loop-napi-h", "npm:1.0.6"],
             ["get-symbol-from-current-process-h", "npm:1.0.2"]
@@ -985,7 +983,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ]],
       ["setimmediate-napi", [
         ["npm:1.0.6", {
-          "packageLocation": "./.yarn/cache/setimmediate-napi-npm-1.0.6-b22fbc6c11-1.zip/node_modules/setimmediate-napi/",
+          "packageLocation": "./.yarn/unplugged/setimmediate-napi-npm-1.0.6-b22fbc6c11/node_modules/setimmediate-napi/",
           "packageDependencies": [
             ["setimmediate-napi", "npm:1.0.6"],
             ["get-symbol-from-current-process-h", "npm:1.0.2"],
